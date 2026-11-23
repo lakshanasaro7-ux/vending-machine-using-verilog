@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+TEST 1: Product A with ₹10
+TEST 2: Product A with ₹20
+TEST 3: Product B with ₹15
+TEST 4: Product B with ₹20
+TEST 5: Insufficient money
+All tests completed.
+$finish called at time : 270 ns : File "E:/Vending_Machine/Vending_Machine.srcs/sim_1/new/tb_vending_machine.v" Line 152

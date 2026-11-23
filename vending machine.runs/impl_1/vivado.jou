@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Thu Sep 17 12:44:50 2026
+# Process ID         : 5952
+# Current directory  : E:/vending machine/vending machine.runs/impl_1
+# Command line       : vivado.exe -log vending_machine.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source vending_machine.tcl -notrace
+# Log file           : E:/vending machine/vending machine.runs/impl_1/vending_machine.vdi
+# Journal file       : E:/vending machine/vending machine.runs/impl_1\vivado.jou
+# Running On         : zen
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : Intel(R) Core(TM) Ultra 9 285H
+# CPU Frequency      : 3686 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 16
+# Host memory        : 33685 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 35833 MB
+# Available Virtual  : 19084 MB
+#-----------------------------------------------------------
+source vending_machine.tcl -notrace
